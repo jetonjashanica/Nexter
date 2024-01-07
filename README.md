@@ -1,5 +1,5 @@
 # Nexter
-Nexter
+Nexter - https://jetonjashanica.github.io/Nexter/
 
 Embark on a visual journey through the world of cutting-edge CSS techniques and modern design with my Behance portfolio project, crafted under the guidance of the exceptional "Advanced CSS and Sass" course by instructor Jonas Schmedtmann. This meticulously curated course delves into the intricacies of advanced CSS, covering everything from Flexbox and CSS Grid to animations, Sass, and responsive design.
 
